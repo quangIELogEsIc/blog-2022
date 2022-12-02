@@ -12,7 +12,7 @@ module.exports = {
     siteUrl: 'https://blog.crimx.com',
     title: 'CRIMX BLOG',
     description:
-      'CRIMX 的博客，主要记录 Web 前端相关的一些内容，偶尔涉及其它方面。',
+      '弥雾印象，记录生活、分享图片。',
     social: require('./social-media.json')
   },
   plugins: [
