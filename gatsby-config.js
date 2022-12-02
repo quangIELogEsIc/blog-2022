@@ -9,8 +9,8 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://blog.crimx.com',
-    title: 'CRIMX BLOG',
+    siteUrl: 'https://niceto.netlify.app/',
+    title: '弥雾印象',
     description:
       '弥雾印象，记录生活、分享图片。',
     social: require('./social-media.json')
