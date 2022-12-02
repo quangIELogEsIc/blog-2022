@@ -8,7 +8,7 @@ export const Navbar = React.memo(() => {
     <nav className='navbar' role='navigation' aria-label='main navigation'>
       <div className='container'>
         <div className='navbar-brand'>
-          <a className='navbar-item' href='https://www.crimx.com' title='CRIMX'>
+          <a className='navbar-item' href='https://niceto.netlify.app/' title='CRIMX'>
             <img
               src={withPrefix('/img/favicon/favicon-96x96.png')}
               width='28'
@@ -41,7 +41,7 @@ export const Navbar = React.memo(() => {
             </Link>
             <a
               className='navbar-item'
-              href='https://www.crimx.com/projects/'
+              href='https://niceto.netlify.app/'
               target='_blank'
             >
               Projects
